@@ -1,0 +1,1 @@
+I do happy little experiments that help me learn and understand concepts. These are not finished projects, rather a collection of weird random experiments. I hope you'll enjoy looking through this as much as I loved playing around with new concepts :)
